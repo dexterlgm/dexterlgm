@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Dexter
+I'm currently studying Front-End development at MedieInstitutet. At the moment I don't have a portfolio website but feel free to have a look through my public repositories!
 
-<!--
-**dexterlgm/dexterlgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
+- Front-End Development  
+- Modern JavaScript frameworks   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Tools I Use
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **Front-End Frameworks & Libraries:** React, Bootstrap  
+- **State Management & Data Fetching:** TanStack Query, Axios  
+- **Back-End & APIs:** Express.js, Socket.IO, Prisma  
+- **Other Tools:** Git, GitHub, VSCode  
