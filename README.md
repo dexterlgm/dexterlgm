@@ -14,4 +14,4 @@ I'm currently studying Front-End development at MedieInstitutet. At the moment I
 - **Other Tools:** Git, GitHub, VSCode  
 
 ## ✉ Contact
-You can reach me through email [here](dextercw@outlook.com)!
+You can reach me through email [here](mailto:dextercw@outlook.com)!
