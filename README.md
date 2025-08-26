@@ -12,3 +12,6 @@ I'm currently studying Front-End development at MedieInstitutet. At the moment I
 - **State Management & Data Fetching:** TanStack Query, Axios  
 - **Back-End & APIs:** Express.js, Socket.IO, Prisma  
 - **Other Tools:** Git, GitHub, VSCode  
+
+## ✉ Contact
+You can reach me through email [here](dextercw@outlook.com)!
