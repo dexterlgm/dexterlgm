@@ -10,7 +10,8 @@ I'm currently studying Front-End development at MedieInstitutet. At the moment I
 - **Databases:** MySQL, MongoDB, Firebase  
 - **Front-End Frameworks & Libraries:** React, Bootstrap  
 - **State Management & Data Fetching:** TanStack Query, Axios  
-- **Back-End & APIs:** Express.js, Socket.IO, Prisma  
+- **Back-End & APIs:** Express.js, Socket.IO, Prisma
+- **Testing & QA:** Cypress, Vitest  
 - **Other Tools:** Git, GitHub, VSCode  
 
 ## ✉ Contact
